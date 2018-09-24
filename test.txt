@@ -1,8 +1,12 @@
 ﻿Cộng hòa xã hội chủ nghĩa Việt Nam 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Độc lập - Tự do - Hạnh phúc
 
 Vũ Duy Mạnh
 
 abcd
+=======
+Độc lập - Tự do - Hạnh phúc
+>>>>>>> parent of 5b1a4fa... changed the second
